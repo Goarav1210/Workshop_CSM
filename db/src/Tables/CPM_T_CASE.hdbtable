@@ -1,0 +1,4 @@
+COLUMN TABLE "CPM_T_CASE" (
+    "ID" Integer,
+    "Name" SMALLINT
+)
